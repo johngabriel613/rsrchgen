@@ -1,0 +1,25 @@
+*, *:before, *::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #041A26;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #0038A8;
+}
+
+input:not([type=checkbox]), select, button{
+    font-family: inherit;
+    font-size: 1rem;
+    width: 100%;
+    
+}
