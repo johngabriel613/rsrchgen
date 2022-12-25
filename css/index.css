@@ -171,6 +171,11 @@ body {
   scale: 1;
   transition: all 0.3s ease;
   cursor: pointer;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 .home__wrapper__generator__content {
   background: #0E232F;
