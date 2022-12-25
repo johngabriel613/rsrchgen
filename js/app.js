@@ -15,11 +15,11 @@ function diceRoll(e){
 
     eventInProgress = true;
 
-    e.style.transform = ('scale(1.2)');
-    
     diceIcon = e.children[0];
     diceIcon.style.transform = ('rotate(360deg)')
     diceIcon.style.transition = ('transform .3s ease')
+
+    e.style.transform = ('scale(1.2)');
 
     filterData(document.querySelector('.js-select p').innerHTML);
     document.querySelector('.js-content p').style.animation = "showText .3s ease";
