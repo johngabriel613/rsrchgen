@@ -172,9 +172,7 @@ body {
   border: 7px solid #041A26;
   border-radius: 50%;
   box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
-  rotate: 0deg;
-  scale: 1;
-  transition: all 0.3s ease;
+  transition: transform 0.3s;
   cursor: pointer;
   -webkit-tap-highlight-color: transparent;
 }
@@ -198,21 +196,21 @@ body {
 }
 @-webkit-keyframes showText {
   from {
-    scale: 0.5;
+    transform: scale(0.5);
     opacity: 0;
   }
   to {
-    scale: 1;
+    transform: scale(1);
     opacity: 1;
   }
 }
 @keyframes showText {
   from {
-    scale: 0.5;
+    transform: scale(0.5);
     opacity: 0;
   }
   to {
-    scale: 1;
+    transform: scale(1);
     opacity: 1;
   }
 }

@@ -14,20 +14,20 @@ function diceRoll(e){
     }
 
     eventInProgress = true;
-    newRotateVal = 360;
-    computedStyle = window.getComputedStyle(e);
-    rotateVal = computedStyle.getPropertyValue('rotate');
-    rotateVal = rotateVal.replace(/\D/g,'');
 
-    newRotateVal = eval(rotateVal + "+" + newRotateVal);
-    e.style.rotate = newRotateVal+"deg";
-    e.style.scale = "1.2"
+    e.style.transform = ('scale(1.2)');
+    
+    diceIcon = e.children[0];
+    diceIcon.style.transform = ('rotate(360deg)')
+    diceIcon.style.transition = ('transform .3s ease')
 
     filterData(document.querySelector('.js-select p').innerHTML);
     document.querySelector('.js-content p').style.animation = "showText .3s ease";
 
     setTimeout(function(){
-        e.style.scale = "1"
+        e.style.transform = ('scale(1)');
+        diceIcon.style.transition = ('none')
+        diceIcon.style.transform = ('rotate(0deg)')
         document.querySelector('.js-content p').style.animation = "";
         eventInProgress = false;
     },300)
