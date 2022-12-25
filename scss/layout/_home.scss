@@ -20,9 +20,8 @@
                     svg{
                         position: absolute;
                         font-size: clamp(1.5rem, 0.875rem + 2vw, 2rem);
-                        rotate: -35deg;
-                        left: -10px;
-                        top: 0px;
+                        left: 0px;
+                        top: -8px;
                     }
                 }
             }
@@ -58,6 +57,7 @@
                         justify-content: space-between;
                         padding: 25px 20px 10px;
                         color: #6BEDAF;
+                        cursor: pointer;
 
                         label{
                             position: absolute;
@@ -69,6 +69,7 @@
                         svg{
                             transition: .3s ease;
                         }
+
                     }
 
                     &__option{
@@ -90,6 +91,7 @@
 
                             li{
                                 padding: 10px 20px 5px;
+                                cursor: pointer;
 
                                 &:hover{
                                     background: #041A26;
@@ -131,6 +133,13 @@
                         outline: none;
                         background: #6BEDAF;
                         border-radius: 8px;
+                        font-weight: 600;
+                        color: #041a26;
+                        cursor: pointer;
+
+                        &:active{
+                            background: #31e890;
+                        }
                     }
                 }
 
@@ -146,16 +155,15 @@
                         display: flex;
                         padding: 20px;
                         font-size: clamp(1.75rem, 1.4375rem + 1vw, 2rem);
-                        border: 5px solid #041A26;
+                        color: #041a26;
+                        border: 7px solid #041A26;
                         border-radius: 50%;
                         box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
                         rotate: 0deg;
                         scale: 1;
-                        transition: rotate .5s ease, scale .15s ease-in-out;
-
-                        &:active{
-                            scale: 1.2;
-                        }
+                        transition: all .3s ease;
+                        cursor: pointer;
+                        
                     }
                 }
             }
@@ -177,6 +185,16 @@
                     font-weight: 700;
                     text-align: center;
                     position: relative;
+
+                        @keyframes showText {
+                            from{
+                                scale:.5;
+                                opacity: 0;
+                            }to{
+                                scale: 1;
+                                opacity: 1;
+                            }
+                        }
                 }
 
                 svg{

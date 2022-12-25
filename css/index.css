@@ -51,9 +51,8 @@ body {
 .home__wrapper__title h1 span svg {
   position: absolute;
   font-size: clamp(1.5rem, 0.875rem + 2vw, 2rem);
-  rotate: -35deg;
-  left: -10px;
-  top: 0px;
+  left: 0px;
+  top: -8px;
 }
 .home__wrapper__title p {
   font-size: clamp(0.9rem, 0.775rem + 0.4vw, 1rem);
@@ -83,6 +82,7 @@ body {
   justify-content: space-between;
   padding: 25px 20px 10px;
   color: #6BEDAF;
+  cursor: pointer;
 }
 .home__wrapper__generator__controller__category__select label {
   position: absolute;
@@ -112,6 +112,7 @@ body {
 }
 .home__wrapper__generator__controller__category__option ul li {
   padding: 10px 20px 5px;
+  cursor: pointer;
 }
 .home__wrapper__generator__controller__category__option ul li:hover {
   background: #041A26;
@@ -143,6 +144,12 @@ body {
   outline: none;
   background: #6BEDAF;
   border-radius: 8px;
+  font-weight: 600;
+  color: #041a26;
+  cursor: pointer;
+}
+.home__wrapper__generator__controller__copy button:active {
+  background: #31e890;
 }
 .home__wrapper__generator__controller__dice {
   position: absolute;
@@ -156,15 +163,14 @@ body {
   display: flex;
   padding: 20px;
   font-size: clamp(1.75rem, 1.4375rem + 1vw, 2rem);
-  border: 5px solid #041A26;
+  color: #041a26;
+  border: 7px solid #041A26;
   border-radius: 50%;
   box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
   rotate: 0deg;
   scale: 1;
-  transition: rotate 0.5s ease, scale 0.15s ease-in-out;
-}
-.home__wrapper__generator__controller__dice button:active {
-  scale: 1.2;
+  transition: all 0.3s ease;
+  cursor: pointer;
 }
 .home__wrapper__generator__content {
   background: #0E232F;
@@ -183,6 +189,26 @@ body {
   font-weight: 700;
   text-align: center;
   position: relative;
+}
+@-webkit-keyframes showText {
+  from {
+    scale: 0.5;
+    opacity: 0;
+  }
+  to {
+    scale: 1;
+    opacity: 1;
+  }
+}
+@keyframes showText {
+  from {
+    scale: 0.5;
+    opacity: 0;
+  }
+  to {
+    scale: 1;
+    opacity: 1;
+  }
 }
 .home__wrapper__generator__content svg {
   position: absolute;
