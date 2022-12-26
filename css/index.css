@@ -98,8 +98,8 @@ body {
   top: 8px;
 }
 .home__wrapper__generator__controller__category__select p {
-  font-size: clamp(0.9rem, 0.775rem + 0.4vw, 1rem);
-  font-weight: 600;
+  font-size: clamp(0.95rem, 0.8875rem + 0.2vw, 1rem);
+  font-weight: 500;
 }
 .home__wrapper__generator__controller__category__select svg {
   transition: 0.3s ease;
