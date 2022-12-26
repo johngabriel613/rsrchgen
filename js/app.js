@@ -95,7 +95,7 @@ categories.forEach(category => {
 
 function filterData(category){
         selectedCategory = category;
-        fetch('/data/researchTitles.json')
+        fetch('/data/minified.json')
         .then(response => response.json())
         .then(data => {
         const filteredTitles = data.researchTitles.filter(title => selectedCategory.includes(title.category));
@@ -112,3 +112,4 @@ function filterData(category){
         }
         });
 }
+
