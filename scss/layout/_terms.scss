@@ -1,0 +1,52 @@
+.terms{
+    &__wrapper{
+        max-width: 1200px;
+        margin: auto;
+        padding: 20px 10px;
+
+        &__return{
+            width: fit-content;
+            margin-bottom: 20px;
+
+            button{
+                background: none;
+                border: none;
+                outline: none;
+                color: #fff;
+                font-size: 1.4rem;
+                font-weight: 500;
+                display: flex;
+                align-items: center;
+                cursor: pointer;
+                -webkit-tap-highlight-color: transparent;
+
+                svg{
+                    font-size: 2rem;
+                }
+            }
+        }
+
+        &__content{
+            h1{
+                color: #6BEDAF;
+                margin-bottom: 5px;
+                font-size: clamp(2rem, 0.75rem + 4vw, 3rem);
+            }
+            ul li, p{
+                color: #d3d3d3;
+                line-height: 1.5;
+                font-size: clamp(0.9rem, 0.775rem + 0.4vw, 1rem);
+            }
+
+            ul{
+                padding-left: 50px;
+            }
+
+            ul li{
+                list-style:disc;
+
+                margin-bottom: 10px;
+            }
+        }
+    }
+}

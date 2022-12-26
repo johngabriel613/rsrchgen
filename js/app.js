@@ -100,12 +100,14 @@ function filterData(category){
         .then(data => {
         const filteredTitles = data.researchTitles.filter(title => selectedCategory.includes(title.category));
         if(filteredTitles.length > 0){
-            const index = Math.floor(Math.random() * filteredTitles.length);
-            const title = filteredTitles[index].title;
+            const index = Math.floor(Math.random() * filteredTitles[0].title.length);
+            const title = filteredTitles[0].title[index];
             document.querySelector('.js-content p').innerHTML = title;
+            console.log(filteredTitles[0].title.length);
         }else{
             const index = Math.floor(Math.random() * data.researchTitles.length);
-            const title = data.researchTitles[index].title;
+            const index2 = Math.floor(Math.random() * data.researchTitles[index].title.length);
+            const title = data.researchTitles[index].title[index2];
             document.querySelector('.js-content p').innerHTML = title;
         }
         });

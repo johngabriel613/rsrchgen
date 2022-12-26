@@ -1,991 +1,532 @@
 {
-    "researchTitles": [
-        {
-        "title": "Exploring the Role of Microbes in Soil Health",
-        "category": "Science"
-        },
-        {
-        "title": "Investigating the Impact of Climate Change on Marine Ecosystems",
-        "category": "Science"
-        },
-        {
-        "title": "The Science of Astronomy: A Closer Look at the Cosmos",
-        "category": "Science"
-        },
-        {
-        "title": "The Biology of Aging: Understanding the Aging Process",
-        "category": "Science"
-        },
-        {
-        "title": "Analyzing the Genetic Basis of Evolution",
-        "category": "Science"
-        },
-        {
-        "title": "The Physics of Energy: From Solar Panels to Nuclear Fusion",
-        "category": "Science"
-        },
-        {
-        "title": "Studying the Impact of Pollution on Human Health",
-        "category": "Science"
-        },
-        {
-        "title": "The Chemistry of Clean Energy: Alternative Fuels and Renewable Resources",
-        "category": "Science"
-        },
-        {
-        "title": "Exploring the Wonders of the Human Brain",
-        "category": "Science"
-        },
-        {
-        "title": "Understanding the Effects of Space Travel on the Human Body",
-        "category": "Science"
-        },
-        {
-        "title": "The Role of Genetics in Cancer Development and Treatment",
-        "category": "Science"
-        },
-        {
-        "title": "The Science of Sound: From Music to Speech",
-        "category": "Science"
-        },
-        {
-        "title": "Exploring the Fascinating World of Entomology",
-        "category": "Science"
-        },
-        {
-        "title": "Investigating the Role of Microbes in Human Health",
-        "category": "Science"
-        },
-        {
-        "title": "The Geology of Natural Disasters: Earthquakes, Volcanoes, and Tsunamis",
-        "category": "Science"
-        },
-        {
-        "title": "The Science of Climate Change: Understanding Earth's Changing Climate",
-        "category": "Science"
-        },
-        {
-        "title": "Exploring the Wonders of Quantum Mechanics",
-        "category": "Science"
-        },
-        {
-        "title": "The Physics of Light: From Lasers to LED Lights",
-        "category": "Science"
-        },
-        {
-        "title": "The Biology of Infectious Diseases: Understanding How They Spread and How to Prevent Them",
-        "category": "Science"
-        },
-        {
-        "title": "The Chemistry of Food: Understanding the Science of Cooking and Nutrition",
-        "category": "Science"
-        },
-        {
-        "title": "The Science of Sustainability: Strategies for a More Sustainable Future",
-        "category": "Science"
-        },
-        {
-        "title": "Investigating the Role of Neurons in Learning and Memory",
-        "category": "Science"
-        },
-        {
-        "title": "Exploring the Science of Renewable Energy Sources",
-        "category": "Science"
-        },
-        {
-        "title": "The Biology of Plants: Understanding Photosynthesis and Plant Growth",
-        "category": "Science"
-        },
-        {
-        "title": "Analyzing the Impact of Human Activities on Biodiversity",
-        "category": "Science"
-        },
-        {
-        "title": "The Physics of Transportation: From Cars to Spaceships",
-        "category": "Science"
-        },
-        {
-        "title": "Studying the Impact of Pollution on the Environment",
-        "category": "Science"
-        },
-        {
-        "title": "The Chemistry of Water: Understanding Its Properties and Importance",
-        "category": "Science"
-        },
-        {
-        "title": "Exploring the Wonders of the Solar System",
-        "category": "Science"
-        },
-        {
-        "title": "Understanding the Role of Microbes in Environmental Sustainability",
-        "category": "Science"
-        },
-        {
-        "title": "The Science of Evolution: Understanding the Process of Natural Selection",
-        "category": "Science"
-        },
-        {
-        "title": "Investigating the Role of Hormones in Human Development and Behavior",
-        "category": "Science"
-        },
-        {
-        "title": "Exploring the Wonders of Astronomy: From the Solar System to the Cosmos",
-        "category": "Science"
-        },
-        {
-        "title": "The Biology of Reproduction: Understanding How Life Is Passed On",
-        "category": "Science"
-        },
-        {
-        "title": "Analyzing the Genetic Basis of Inherited Diseases",
-        "category": "Science"
-        },
-        {
-        "title": "The Physics of Energy Conservation: Strategies for Reducing Energy Use",
-        "category": "Science"
-        },
-        {
-        "title": "Studying the Impact of Pollution on Marine Ecosystems",
-        "category": "Science"
-        },
-        {
-        "title": "The Chemistry of Clean Energy: From Biofuels to Hydrogen Fuel Cells",
-        "category": "Science"
-        },
-        {
-        "title": "Exploring the Wonders of the Human Immune System",
-        "category": "Science"
-        },
-        {
-        "title": "Understanding the Role of Genetics in Medicine and Healthcare",
-        "category": "Science"
-        },
-        {
-        "title": "The Science of Cell Biology: Understanding the Building Blocks of Life",
-        "category": "Science"
-        },
-        {
-        "title": "Investigating the Role of the Human Microbiome in Health and Disease",
-        "category": "Science"
-        },
-        {
-        "title": "Exploring the Wonders of Botany: From the Structure of Plants to Their Role in Ecosystems",
-        "category": "Science"
-        },
-        {
-        "title": "The Biology of Disease: Understanding the Causes and Prevention of Illness",
-        "category": "Science"
-        },
-        {
-        "title": "Analyzing the Impact of Human Activities on the Atmosphere",
-        "category": "Science"
-        },
-        {
-        "title": "The Physics of Energy Storage: From Batteries to Fuel Cells",
-        "category": "Science"
-        },
-        {
-        "title": "Studying the Impact of Pollution on Air Quality",
-        "category": "Science"
-        },
-        {
-        "title": "The Chemistry of Water Treatment: Ensuring Safe and Clean Drinking Water",
-        "category": "Science"
-        },
-        {
-        "title": "Exploring the Wonders of the Human Endocrine System",
-        "category": "Science"
-        },
-        {
-        "title": "Understanding the Role of Genetics in Developmental Disorders",
-        "category": "Science"
-        },
-        {
-        "title": "The Science of Astronomy: From Galaxies to Black Holes",
-        "category": "Science"
-        },
-        {
-        "title": "Investigating the Role of the Human Genome in Health and Disease",
-        "category": "Science"
-        },
-        {
-        "title": "Exploring the Wonders of Environmental Science: From Climate Change to Biodiversity",
-        "category": "Science"
-        },
-        {
-        "title": "The Biology of Animal Behavior: Understanding How Animals Communicate and Interact",
-        "category": "Science"
-        },
-        {
-        "title": "Analyzing the Impact of Human Activities on the Oceans",
-        "category": "Science"
-        },
-        {
-        "title": "The Physics of Energy Conversion: From Thermal Energy to Electricity",
-        "category": "Science"
-        },
-        {
-        "title": "Studying the Impact of Pollution on Soil Quality",
-        "category": "Science"
-        },
-        {
-        "title": "The Chemistry of Medicinal Plants: Understanding Their Healing Properties",
-        "category": "Science"
-        },
-        {
-        "title": "Exploring the Wonders of the Human Respiratory System",
-        "category": "Science"
-        },
-        {
-        "title": "Understanding the Role of Genetics in Mental Health Disorders",
-        "category": "Science"
-        },
-        {
-        "title": "Exploring the Science of Neurobiology: From Neurons to the Brain",
-        "category": "Science"
-        },
-        {
-        "title": "Investigating the Role of Gut Microbes in Mental Health and Well-Being",
-        "category": "Science"
-        },
-        {
-        "title": "The Biology of Cancer: Understanding the Causes and Treatment of Cancer",
-        "category": "Science"
-        },
-        {
-        "title": "Analyzing the Impact of Environmental Factors on Human Health",
-        "category": "Science"
-        },
-        {
-        "title": "The Biology of the Aging Brain: Understanding Cognitive Decline and Dementia",
-        "category": "Science"
-        },
-        {
-        "title": "Studying the Impact of Pollution on Human Reproductive Health",
-        "category": "Science"
-        },
-        {
-        "title": "The Biology of the Human Genome: Understanding the Role of DNA in Health and Disease",
-        "category": "Science"
-        },
-        {
-        "title": "The Impact of Artificial Intelligence on Employment",
-        "category": "Technology"
-        },
-        {
-        "title": "Exploring the Ethics of Social Media: A Case Study of the Cambridge Analytica Scandal",
-        "category": "Technology"
-        },
-        {
-        "title": "The Role of Virtual Reality in Education",
-        "category": "Technology"
-        },
-        {
-        "title": "The Future of Transportation: A Look at Emerging Technologies",
-        "category": "Technology"
-        },
-        {
-        "title": "The Ethics of Big Data: Balancing Privacy and Progress",
-        "category": "Technology"
-        },
-        {
-        "title": "Exploring the Impact of Smartphone Addiction on Mental Health",
-        "category": "Technology"
-        },
-        {
-        "title": "The Role of Blockchain in Supply Chain Management",
-        "category": "Technology"
-        },
-        {
-        "title": "The Ethics of Autonomous Weapons: A Philosophical Perspective",
-        "category": "Technology"
-        },
-        {
-        "title": "The Future of Work: A Look at Emerging Trends in the Gig Economy",
-        "category": "Technology"
-        },
-        {
-        "title": "Exploring the Impact of Artificial Intelligence on the Creative Arts",
-        "category": "Technology"
-        },
-        {
-        "title": "The Role of Machine Learning in Predictive Maintenance",
-        "category": "Technology"
-        },
-        {
-        "title": "Exploring the Security Implications of the Internet of Things",
-        "category": "Technology"
-        },
-        {
-        "title": "The Future of Energy: A Look at Emerging Renewable Technologies",
-        "category": "Technology"
-        },
-        {
-        "title": "The Ethics of Genetic Engineering: A Philosophical Perspective",
-        "category": "Technology"
-        },
-        {
-        "title": "Exploring the Impact of Social Media on Political Discourse",
-        "category": "Technology"
-        },
-        {
-        "title": "The Role of Augmented Reality in Manufacturing",
-        "category": "Technology"
-        },
-        {
-        "title": "The Future of Healthcare: A Look at Emerging Technologies",
-        "category": "Technology"
-        },
-        {
-        "title": "The Ethics of Artificial Intelligence in Decision-Making",
-        "category": "Technology"
-        },
-        {
-        "title": "Exploring the Impact of Cyberbullying on Mental Health",
-        "category": "Technology"
-        },
-        {
-        "title": "The Role of Virtual Assistants in Customer Service",
-        "category": "Technology"
-        },
-        {
-        "title": "The Future of Virtual Events: A Look at Emerging Technologies",
-        "category": "Technology"
-        },
-        {
-        "title": "Exploring the Impact of Smart Home Devices on Privacy",
-        "category": "Technology"
-        },
-        {
-        "title": "The Role of 3D Printing in the Construction Industry",
-        "category": "Technology"
-        },
-        {
-        "title": "The Ethics of Deepfake Technology: A Philosophical Perspective",
-        "category": "Technology"
-        },
-        {
-        "title": "Exploring the Impact of Augmented Reality on Consumer Behavior",
-        "category": "Technology"
-        },
-        {
-        "title": "The Future of Online Education: A Look at Emerging Technologies",
-        "category": "Technology"
-        },
-        {
-        "title": "The Ethics of Artificial Intelligence in Healthcare",
-        "category": "Technology"
-        },
-        {
-        "title": "Exploring the Impact of Social Media on Self-Esteem",
-        "category": "Technology"
-        },
-        {
-        "title": "The Role of Virtual Reality in Therapy",
-        "category": "Technology"
-        },
-        {
-        "title": "The Future of Agriculture: A Look at Emerging Technologies",
-        "category": "Technology"
-        },
-        {
-        "title": "The Role of Quantum Computing in Drug Discovery",
-        "category": "Technology"
-        },
-        {
-        "title": "Exploring the Impact of Online Streaming Services on Traditional Media",
-        "category": "Technology"
-        },
-        {
-        "title": "The Future of Retail: A Look at Emerging Technologies",
-        "category": "Technology"
-        },
-        {
-        "title": "The Ethics of Gene Editing: A Philosophical Perspective",
-        "category": "Technology"
-        },
-        {
-        "title": "Exploring the Impact of Virtual Reality on Physical Therapy",
-        "category": "Technology"
-        },
-        {
-        "title": "The Role of Augmented Reality in Architecture",
-        "category": "Technology"
-        },
-        {
-        "title": "The Future of Environmental Sustainability: A Look at Emerging Technologies",
-        "category": "Technology"
-        },
-        {
-        "title": "The Ethics of Facial Recognition Technology",
-        "category": "Technology"
-        },
-        {
-        "title": "Exploring the Impact of Social Media on Mental Health",
-        "category": "Technology"
-        },
-        {
-        "title": "The Role of Virtual Reality in Mental Health Treatment",
-        "category": "Technology"
-        },
-        {    
-        "title": "The effects of social media use on self-esteem in adolescents",
-        "category": "Psychology"
-        },
-        {   
-        "title": "The relationship between attachment styles and romantic relationships",
-        "category": "Psychology"
-        },
-        {    
-        "title": "The role of mindfulness in reducing anxiety and stress",
-        "category": "Psychology"  
-        },  
-        {    
-        "title": "The impact of parental involvement on academic achievement in children",    
-        "category": "Psychology"  
-        },  
-        {    
-        "title": "The link between sleep patterns and academic performance in college students",    
-        "category": "Psychology"  
-        },  
-        {    
-        "title": "The influence of cultural values on the development of personality",
-        "category": "Psychology"  
-        },
-        {    
-        "title": "The relationship between emotional intelligence and leadership effectiveness",
-        "category": "Psychology"  
-        },  
-        {    
-        "title": "The effects of gratitude interventions on well-being and happiness",    
-        "category": "Psychology"
-        },  
-        {    
-        "title": "The impact of exposure to violence on mental health outcomes in children",
-        "category": "Psychology"  
-        },  
-        {    
-        "title": "The relationship between self-compassion and body image satisfaction in women",    
-        "category": "Psychology"
-        },
-        {
-        "title": "The Effects of Social Media on Mental Health",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Role of Parenting Styles in Child Development",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Impact of Trauma on Brain Development",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Relationship Between Emotional Intelligence and Success",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Link Between Exercise and Mental Health",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Role of Genetics in Mental Illness",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Influence of Culture on Psychological Development",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Effects of Stress on Physical and Mental Health",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Influence of Sleep on Cognitive Functioning",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Role of Personality in Social Behavior",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Connection Between Music and Emotion",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Impact of Childhood Adversity on Adult Mental Health",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Role of Empathy in Interpersonal Relationships",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Effect of Mindfulness on Stress Reduction",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Influence of Parental Involvement on Academic Performance",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Relationship Between Social Support and Mental Health",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Effects of Social Comparison on Self-Esteem",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Role of Motivation in Goal Achievement",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Influence of Gender on Mental Health Outcomes",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Connection Between Sleep and Learning",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Impact of Parental Divorce on Child Development",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Role of Emotional Intelligence in Leadership",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Connection Between Social Support and Physical Health",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Influence of Technology on Attention and Concentration",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Effects of Music Therapy on Mental Health",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Relationship Between Gratitude and Well-Being",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Role of Self-Efficacy in Goal Attainment",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Impact of Parenting Styles on Adolescent Behavior",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Connection Between Creativity and Mental Health",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Influence of Family Dynamics on Mental Health Outcomes",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Role of Parental Involvement in Academic Success",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Connection Between Exercise and Cognitive Functioning",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Influence of Social Comparison on Body Image",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Effects of Sleep Deprivation on Mood",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Relationship Between Self-Esteem and Mental Health",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Role of Mindfulness in Stress Management",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Impact of Social Support on Coping Strategies",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Connection Between Parenting Styles and Adolescent Mental Health",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Influence of Family Dynamics on Parenting Styles",
-        "category": "Psychology"
-        },
-        {
-        "title": "The Effects of Early Childhood Experiences on Adult Mental Health",
-        "category": "Psychology"
-        },
-        {
-        "title": "Design and Optimization of a Solar-Powered Water Pumping System",
-        "category": "Engineering"
-        },
-        {
-        "title": "Novel Approach to Improving the Efficiency of Wind Turbines",
-        "category": "Engineering"
-        },
-        {
-        "title": "Investigation of the Effect of Structural Materials on Earthquake Resistance",
-        "category": "Engineering"
-        },
-        {
-        "title": "Development of a Smart Traffic Control System Using Artificial Intelligence",
-        "category": "Engineering"
-        },
-        {
-        "title": "Feasibility Study of Using Biodegradable Plastics in the Construction Industry",
-        "category": "Engineering"
-        },
-        {
-        "title": "Exploring the Potential of Geothermal Energy for Heating and Cooling Buildings",
-        "category": "Engineering"
-        },
-        {
-        "title": "Analysis of the Performance of Different Types of Batteries for Electric Vehicles",
-        "category": "Engineering"
-        },
-        {
-        "title": "Evaluation of the Durability and Sustainability of 3D Printed Structures",
-        "category": "Engineering"
-        },
-        {
-        "title": "Design and Implementation of a Wireless Sensing Network for Environmental Monitoring",
-        "category": "Engineering"
-        },
-        {
-        "title": "Investigation of the Use of Virtual Reality in Industrial Training and Education",
-        "category": "Engineering"
-        },
-        {
-        "title": "Evaluation of Various Materials for Use in Spacecraft Structures",
-        "category": "Engineering"
-        },
-        {
-        "title": "Investigation of the Use of Artificial Intelligence in Predictive Maintenance for Industrial Machines",
-        "category": "Engineering"
-        },
-        {
-        "title": "Design and Testing of a Smart Grid Energy Management System",
-        "category": "Engineering"
-        },
-        {
-        "title": "Exploring the Potential of Sustainable Biofuels for Transportation",
-        "category": "Engineering"
-        },
-        {
-        "title": "Analysis of the Impact of Temperature on the Performance of Photovoltaic Cells",
-        "category": "Engineering"
-        },
-        {
-        "title": "Investigation of the Use of Virtual Reality in Aerospace Engineering Design and Simulation",
-        "category": "Engineering"
-        },
-        {
-        "title": "Evaluation of the Energy Efficiency of Different Types of Buildings",
-        "category": "Engineering"
-        },
-        {
-        "title": "Design and Implementation of a Wireless Sensor Network for Structural Health Monitoring",
-        "category": "Engineering"
-        },
-        {
-        "title": "Feasibility Study of Using 3D Printing in the Construction Industry",
-        "category": "Engineering"
-        },
-        {
-        "title": "Investigation of the Use of Natural Fibers in the Manufacturing of Biodegradable Plastics",
-        "category": "Engineering"
-        },
-        {
-        "title": "Design and Implementation of a Wireless Sensor Network for Agricultural Irrigation Management",
-        "category": "Engineering"
-        },
-        {
-        "title": "Investigation of the Use of Artificial Intelligence in Predictive Maintenance for Industrial Machines",
-        "category": "Engineering"
-        },
-        {
-        "title": "Analysis of the Impact of Temperature on the Performance of Photovoltaic Cells",
-        "category": "Engineering"
-        },
-        {
-        "title": "Evaluation of Various Materials for Use in Spacecraft Structures",
-        "category": "Engineering"
-        },
-        {
-        "title": "Design and Testing of a Smart Grid Energy Management System",
-        "category": "Engineering"
-        },
-        {
-        "title": "Exploring the Potential of Sustainable Biofuels for Transportation",
-        "category": "Engineering"
-        },
-        {
-        "title": "Investigation of the Use of Virtual Reality in Aerospace Engineering Design and Simulation",
-        "category": "Engineering"
-        },
-        {
-        "title": "Evaluation of the Energy Efficiency of Different Types of Buildings",
-        "category": "Engineering"
-        },
-        {
-        "title": "Design and Implementation of a Wireless Sensor Network for Structural Health Monitoring",
-        "category": "Engineering"
-        },
-        {
-        "title": "Feasibility Study of Using 3D Printing in the Construction Industry",
-        "category": "Engineering"
-        },
-        {
-        "title": "Evaluation of the Use of Machine Learning for Predictive Maintenance in the Manufacturing Industry",
-        "category": "Engineering"
-        },
-        {
-        "title": "Investigation of the Impact of Climate Change on Infrastructure and Transportation Systems",
-        "category": "Engineering"
-        },
-        {
-        "title": "Design and Implementation of a Smart Irrigation System Using Internet of Things Technology",
-        "category": "Engineering"
-        },
-        {
-        "title": "Exploring the Potential of Microgrids for Rural Electrification",
-        "category": "Engineering"
-        },
-        {
-        "title": "Analysis of the Performance of Different Types of Energy Storage Systems",
-        "category": "Engineering"
-        },
-        {
-        "title": "Investigation of the Use of Virtual Reality in Engineering Education and Training",
-        "category": "Engineering"
-        },
-        {
-        "title": "Evaluation of the Suitability of Different Types of Materials for Use in Biomedical Implants",
-        "category": "Engineering"
-        },
-        {
-        "title": "Design and Testing of a Wireless Sensor Network for Real-Time Air Quality Monitoring",
-        "category": "Engineering"
-        },
-        {
-        "title": "Feasibility Study of Using 3D Printing in the Aerospace Industry",
-        "category": "Engineering"
-        },
-        {
-        "title": "Investigation of the Use of Natural Fibers in the Manufacturing of Biodegradable Composites",
-        "category": "Engineering"
-        },
-        {
-        "title": "Design and Testing of a Wireless Charging System for Electric Vehicles",
-        "category": "Engineering"
-        },
-        {
-        "title": "Evaluation of the Use of Recycled Materials in the Construction Industry",
-        "category": "Engineering"
-        },
-        {
-        "title": "Investigation of the Use of Artificial Intelligence in Predictive Maintenance for Industrial Machines",
-        "category": "Engineering"
-        },
-        {
-        "title": "Exploration of the Potential of Microgrids for Enhancing the Reliability of Power Systems",
-        "category": "Engineering"
-        },
-        {
-        "title": "Analysis of the Effect of Temperature on the Performance of Lithium-Ion Batteries",
-        "category": "Engineering"
-        },
-        {
-        "title": "Design and Implementation of a Wireless Sensor Network for Environmental Monitoring",
-        "category": "Engineering"
-        },
-        {
-        "title": "Feasibility Study of Using Geothermal Energy for Heating and Cooling Buildings",
-        "category": "Engineering"
-        },
-        {
-        "title": "Evaluation of the Durability and Sustainability of 3D Printed Structures",
-        "category": "Engineering"
-        },
-        {
-        "title": "Investigation of the Use of Virtual Reality in Industrial Training and Education",
-        "category": "Engineering"
-        },
-        {
-        "title": "Exploring the Potential of Sustainable Biofuels for Transportation",
-        "category": "Engineering"
-        },
-        {    
-        "title": "Real-Time Traffic Monitoring using Machine Learning",    
-        "category": "Systems"  
-        },  
-        {    
-        "title": "Adaptive Resource Allocation in Cloud Computing Environments",
-        "category": "Systems"  
-        },
-        {    
-        "title": "Predictive Maintenance for Industrial Systems using Deep Learning",    
-        "category": "Systems"  
-        },  
-        {    
-        "title": "Optimizing the Performance of Distributed Systems using Game Theory",    
-        "category": "Systems"  
-        },  
-        {    
-        "title": "Mobile Edge Computing: Enabling Low-Latency Applications",    
-        "category": "Systems"  
-        },  
-        {    
-        "title": "Blockchain-based Secure Data Sharing in Healthcare Systems",    
-        "category": "Systems"  
-        },  
-        {    
-        "title": "Intelligent Transportation Systems: A Survey of Advanced Technologies",
-        "category": "Systems"  
-        },  
-        {    
-        "title": "Energy-Efficient Scheduling in Cloud Data Centers",    
-        "category": "Systems"  
-        },  
-        {    
-        "title": "Improving Cybersecurity in Industrial Control Systems",    
-        "category": "Systems"  
-        },  
-        {    
-        "title": "Intelligent Traffic Signal Control using Artificial Intelligence",    
-        "category": "Systems"  
-        },
-        {        
-        "title": "Investigating the impact of network latency on the performance of distributed systems",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Designing algorithms for dynamic resource allocation in cloud computing systems",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Evaluating the security and privacy risks of using IoT devices in smart homes",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Exploring the use of machine learning for predicting and preventing system failures",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Analyzing the energy efficiency of different scheduling algorithms in embedded systems",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Developing techniques for optimizing the scalability and elasticity of cloud-based systems",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Investigating the use of blockchain technology for secure data storage and transfer",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Designing algorithms for efficient data processing in stream processing systems",        
-        "category": "Systems"    
-        },    
-        {       
-        "title": "Evaluating the performance of different virtualization technologies in cloud computing environments",        
-        "category": "Systems"   
-        },    
-        {        
-        "title": "Exploring the potential of intelligent transportation systems for reducing traffic congestion and improving safety",        "category": "Systems"
-        },
-        {        
-        "title": "Investigating the use of machine learning algorithms for optimizing resource allocation in cloud computing systems",        
-        "category": "Systems"    
-        },    
-        {       
-        "title": "Designing and implementing a distributed system for real-time data analysis",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Exploring the use of blockchain technology for secure and decentralized data management in IoT systems",        
-        "category": "Systems"    
-        },    
-        {      
-        "title": "Developing a model for predicting and preventing network congestion in mobile systems",        
-        "category": "Systems"    
-        },    
-        {       
-        "title": "Evaluating the energy efficiency of different scheduling algorithms in embedded systems",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Examining the impact of virtualization on the security and privacy of systems",        
-        "category": "Systems"    
-        },    
-        {       
-        "title": "Investigating the scalability and elasticity of different cloud-based systems under varying workloads",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Designing and implementing a distributed consensus protocol for blockchain systems",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Exploring the potential for using intelligent transportation systems to improve traffic flow and safety",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Analyzing the trade-offs between fault tolerance and performance in distributed systems",        
-        "category": "Systems"    
-        },
-        {        
-        "title": "Evaluating the effectiveness of different load balancing algorithms in cloud computing systems",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Investigating the trade-offs between availability and consistency in distributed systems",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Designing and implementing a network optimization protocol for mobile systems",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Exploring the use of machine learning for dynamic resource allocation in embedded systems",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Developing secure communication protocols for IoT systems",        
-        "category": "Systems"    
-        },    
-        {       
-        "title": "Analyzing the performance of stream processing systems under different workloads",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Investigating the use of container technologies for improving the scalability and elasticity of cloud-based systems",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Designing and implementing an adaptive resource management system for virtualized environments",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Exploring the use of cryptographic techniques for ensuring the security and privacy of blockchain systems",        
-        "category": "Systems"    
-        },    
-        {        
-        "title": "Investigating the potential of intelligent transportation systems for improving urban mobility",        
-        "category": "Systems"    
+    "researchTitles":[
+        {
+            "category": "Science",
+            "title": [
+                "Exploring the Role of Microbes in Soil Health",
+                "Investigating the Impact of Climate Change on Marine Ecosystems",
+                "The Science of Astronomy: A Closer Look at the Cosmos",
+                "The Biology of Aging: Understanding the Aging Process",
+                "Analyzing the Genetic Basis of Evolution",
+                "The Physics of Energy: From Solar Panels to Nuclear Fusion",
+                "Studying the Impact of Pollution on Human Health",
+                "The Chemistry of Clean Energy: Alternative Fuels and Renewable Resources",
+                "Exploring the Wonders of the Human Brain",
+                "Understanding the Effects of Space Travel on the Human Body",
+                "The Role of Genetics in Cancer Development and Treatment",
+                "The Science of Sound: From Music to Speech",
+                "Exploring the Fascinating World of Entomology",
+                "Investigating the Role of Microbes in Human Health",
+                "The Geology of Natural Disasters: Earthquakes, Volcanoes, and Tsunamis",
+                "The Science of Climate Change: Understanding Earth's Changing Climate",
+                "Exploring the Wonders of Quantum Mechanics",
+                "The Physics of Light: From Lasers to LED Lights",
+                "The Biology of Infectious Diseases: Understanding How They Spread and How to Prevent Them",
+                "The Chemistry of Food: Understanding the Science of Cooking and Nutrition",
+                "The Science of Sustainability: Strategies for a More Sustainable Future",
+                "Investigating the Role of Neurons in Learning and Memory",
+                "Exploring the Science of Renewable Energy Sources",
+                "The Biology of Plants: Understanding Photosynthesis and Plant Growth",
+                "Analyzing the Impact of Human Activities on Biodiversity",
+                "The Physics of Transportation: From Cars to Spaceships",
+                "Studying the Impact of Pollution on the Environment",
+                "The Chemistry of Water: Understanding Its Properties and Importance",
+                "Exploring the Wonders of the Solar System",
+                "Understanding the Role of Microbes in Environmental Sustainability",
+                "The Science of Evolution: Understanding the Process of Natural Selection",
+                "Investigating the Role of Hormones in Human Development and Behavior",
+                "Exploring the Wonders of Astronomy: From the Solar System to the Cosmos",
+                "The Biology of Reproduction: Understanding How Life Is Passed On",
+                "Analyzing the Genetic Basis of Inherited Diseases",
+                "The Physics of Energy Conservation: Strategies for Reducing Energy Use",
+                "Studying the Impact of Pollution on Marine Ecosystems",
+                "The Chemistry of Clean Energy: From Biofuels to Hydrogen Fuel Cells",
+                "Exploring the Wonders of the Human Immune System",
+                "Understanding the Role of Genetics in Medicine and Healthcare",
+                "The Science of Astronomy: Understanding the Universe and Its Origins",
+                "Exploring the Wonders of Quantum Mechanics: From Particles to Atoms",
+                "The Biology of Animal Behavior: Understanding How Animals Communicate and Interact",
+                "Analyzing the Impact of Climate Change on Plant and Animal Populations",
+                "The Physics of Energy Production: From Fossil Fuels to Renewable Resources",
+                "Studying the Impact of Pollution on Water Quality",
+                "The Chemistry of Clean Energy: From Solar Panels to Wind Turbines",
+                "Exploring the Wonders of the Human Nervous System",
+                "Understanding the Role of Genetics in Evolution and Adaptation",
+                "The Science of Cell Biology: Understanding the Building Blocks of Life",
+                "Investigating the Role of the Human Microbiome in Health and Disease",
+                "Exploring the Wonders of Botany: From the Structure of Plants to Their Role in Ecosystems",
+                "The Biology of Disease: Understanding the Causes and Prevention of Illness",
+                "Analyzing the Impact of Human Activities on the Atmosphere",
+                "The Physics of Energy Storage: From Batteries to Fuel Cells",
+                "Studying the Impact of Pollution on Air Quality",
+                "The Chemistry of Water Treatment: Ensuring Safe and Clean Drinking Water",
+                "Exploring the Wonders of the Human Endocrine System",
+                "Understanding the Role of Genetics in Developmental Disorders",
+                "The Science of Astronomy: From Galaxies to Black Holes",
+                "Investigating the Role of the Human Genome in Health and Disease",
+                "Exploring the Wonders of Environmental Science: From Climate Change to Biodiversity",
+                "The Biology of Animal Behavior: Understanding How Animals Communicate and Interact",
+                "Analyzing the Impact of Human Activities on the Oceans",
+                "The Physics of Energy Conversion: From Thermal Energy to Electricity",
+                "Studying the Impact of Pollution on Soil Quality",
+                "The Chemistry of Medicinal Plants: Understanding Their Healing Properties",
+                "Exploring the Wonders of the Human Respiratory System",
+                "Understanding the Role of Genetics in Mental Health Disorders",
+                "Exploring the Science of Human Psychology: From Cognition to Behavior",
+                "Investigating the Role of Microbes in Industrial and Agricultural Applications",
+                "The Biology of Aging: Understanding the Processes of Aging and Longevity",
+                "Analyzing the Impact of Human Activities on Earth's Ecosystems",
+                "The Physics of Energy Efficiency: Strategies for Reducing Energy Use in Buildings",
+                "Studying the Impact of Pollution on Human Health",
+                "The Chemistry of Environmental Remediation: Cleaning Up Polluted Sites",
+                "Exploring the Wonders of the Human Digestive System",
+                "Understanding the Role of Genetics in Nutrition and Metabolism",
+                "The Science of Geology: Understanding Earth's History and Structure",
+                "The Biology of Genetics: Understanding the Role of DNA in Heredity",
+                "Investigating the Role of Microbes in the Digestive System",
+                "Exploring the Science of Evolution: From Natural Selection to Adaptation",
+                "The Biology of Development: Understanding How Life Develops from Conception to Birth",
+                "Analyzing the Impact of Environmental Factors on Genetic Expression",
+                "The Biology of the Immune System: Understanding How the Body Defends Against Itself",
+                "The Biology of Animal Behavior: Understanding How Animals Communicate and Interact",
+                "Investigating the Role of Hormones in Human Development and Behavior",
+                "Exploring the Wonders of Botany: From the Structure of Plants to Their Role in Ecosystems",
+                "The Biology of Disease: Understanding the Causes and Prevention of Illness",
+                "Analyzing the Genetic Basis of Inherited Diseases",
+                "The Biology of Aging: Understanding the Processes of Aging and Longevity",
+                "Studying the Impact of Pollution on Plant and Animal Populations",
+                "The Biology of the Human Microbiome: Understanding the Role of Microbes in Health and Disease",
+                "Exploring the Wonders of the Human Endocrine System",
+                "Understanding the Role of Genetics in Developmental Disorders",
+                "Studying the Impact of Pollution on Human Reproductive Health",
+                "The Biology of the Human Genome: Understanding the Role of DNA in Health and Disease",
+                "Exploring the Wonders of the Human Cardiovascular System",
+                "Understanding the Role of Genetics in Mental Health Disorders",
+                "The Science of Plant Biology: From Photosynthesis to Plant Diversity"
+            ]
+        },
+        {
+            "category": "Technology",
+            "title": [
+                "The Impact of Artificial Intelligence on the Job Market",
+                "Exploring the Ethical Implications of Biometric Data Collection",
+                "Assessing the Security Risks of IoT Device Adoption",
+                "Analyzing the Effects of Social Media on Mental Health",
+                "Investigating the Potential of Blockchain for Supply Chain Management",
+                "Examining the Use of Augmented Reality in Education",
+                "Evaluating the Feasibility of Solar-Powered Smart Grids",
+                "Analyzing the Economic Benefits of Adopting Electric Vehicle Infrastructure",
+                "The Role of Big Data in Predictive Maintenance",
+                "Exploring the Impact of Virtual Reality on Human Behavior",
+                "An Exploration of the Role of Robotics in Healthcare",
+                "Examining the Effectiveness of Cybersecurity Measures in the Financial Industry",
+                "Analyzing the Potential of 3D Printing in Manufacturing",
+                "Investigating the Use of Machine Learning in Predictive Analytics",
+                "Evaluating the Impact of Big Tech on Small Businesses",
+                "Exploring the Ethics of Autonomous Weapon Systems",
+                "Assessing the Feasibility of Geothermal Energy for Data Centers",
+                "Analyzing the Role of Social Media Algorithms in Political Discourse",
+                "Examining the Use of Virtual Assistants in Customer Service",
+                "The Impact of Virtual Reality on Physical Therapy",
+                "Evaluating the Potential of Quantum Computing for Data Analysis",
+                "Exploring the Use of Drones for Environmental Monitoring",
+                "Assessing the Security Risks of Cloud Computing",
+                "Analyzing the Impact of 5G Network Deployment on Rural Communities",
+                "Investigating the Potential of Wearable Technology for Elderly Care",
+                "Examining the Use of Gamification in Education",
+                "Evaluating the Feasibility of Renewable Energy Sources for Data Centers",
+                "Analyzing the Role of Machine Learning in Fraud Detection",
+                "Exploring the Impact of Virtual Reality on Employee Training",
+                "Assessing the Ethical Implications of Deepfake Technology",
+                "Examining the Use of Robotics in Agriculture",
+                "Analyzing the Potential of Artificial Intelligence for Drug Discovery",
+                "Investigating the Use of Big Data in Personalized Medicine",
+                "Evaluating the Feasibility of Smart Grids for Urban Environments",
+                "Exploring the Use of Augmented Reality for Urban Planning",
+                "Assessing the Impact of Virtual Reality on Marketing and Advertising",
+                "Examining the Role of Machine Learning in Cybersecurity",
+                "Analyzing the Potential of Blockchain for Medical Records Management",
+                "Investigating the Use of Drones for Disaster Relief",
+                "Evaluating the Feasibility of Solar-Powered Smart Homes",
+                "Examining the Use of Virtual Reality in Architecture",
+                "Analyzing the Impact of Artificial Intelligence on the Legal Industry",
+                "Investigating the Use of Machine Learning in Predictive Maintenance",
+                "Evaluating the Feasibility of Solar-Powered Data Centers",
+                "Exploring the Use of Drones for Delivery Services",
+                "Assessing the Ethical Implications of Genetic Testing",
+                "Examining the Role of Robotics in Construction",
+                "Analyzing the Potential of Blockchain for Supply Chain Transparency",
+                "Investigating the Use of Big Data in Environmental Monitoring",
+                "Evaluating the Feasibility of Smart Grids for Rural Communities",
+                "Exploring the Use of Augmented Reality for Retail",
+                "Assessing the Impact of Virtual Reality on the Tourism Industry",
+                "Examining the Role of Machine Learning in Natural Language Processing",
+                "Analyzing the Potential of Artificial Intelligence for Financial Trading",
+                "Investigating the Use of Drones for Photography and Filmmaking",
+                "Evaluating the Feasibility of Solar-Powered Smart Cities",
+                "Exploring the Use of Virtual Reality for Military Training",
+                "Assessing the Ethical Implications of Driverless Cars",
+                "Examining the Role of Robotics in Space Exploration",
+                "Analyzing the Potential of Blockchain for Identity Management",
+                "Investigating the Use of Big Data in Predictive Weather Modeling",
+                "Evaluating the Feasibility of Smart Grids for Remote Locations",
+                "Exploring the Use of Augmented Reality for Industrial Maintenance",
+                "Assessing the Impact of Virtual Reality on the Entertainment Industry",
+                "Examining the Role of Machine Learning in Predictive Maintenance",
+                "Analyzing the Potential of Artificial Intelligence for Supply Chain Optimization",
+                "Investigating the Use of Drones for Search and Rescue Operations",
+                "Evaluating the Feasibility of Solar-Powered Transportation Systems",
+                "Exploring the Use of Virtual Reality for Real Estate Marketing",
+                "Assessing the Ethical Implications of Virtual Reality Therapy",
+                "Examining the Use of Robotics in Environmental Remediation",
+                "Analyzing the Impact of Artificial Intelligence on the Fashion Industry",
+                "Investigating the Use of Machine Learning in Predictive Maintenance",
+                "Evaluating the Feasibility of Solar-Powered Desalination Plants",
+                "Exploring the Use of Drones for Wildlife Monitoring",
+                "Assessing the Ethical Implications of Artificial Intelligence in Hiring Practices",
+                "Examining the Role of Robotics in Food Processing",
+                "Analyzing the Potential of Blockchain for Music Licensing",
+                "Investigating the Use of Big Data in Predictive Agriculture",
+                "Evaluating the Feasibility of Smart Grids for Off-Grid Locations",
+                "Exploring the Use of Augmented Reality for Landscaping Design",
+                "Assessing the Impact of Virtual Reality on the Real Estate Industry",
+                "Examining the Role of Machine Learning in Predictive Maintenance",
+                "Analyzing the Potential of Artificial Intelligence for Supply Chain Planning",
+                "Investigating the Use of Drones for Agricultural Surveying",
+                "Evaluating the Feasibility of Solar-Powered Microgrids",
+                "Exploring the Use of Virtual Reality for Industrial Design",
+                "Assessing the Ethical Implications of Virtual Reality Addiction",
+                "Examining the Role of Robotics in Disaster Response",
+                "Analyzing the Potential of Blockchain for Intellectual Property Management",
+                "Investigating the Use of Big Data in Predictive Maintenance",
+                "Evaluating the Feasibility of Smart Grids for Island Communities",
+                "Exploring the Use of Augmented Reality for Construction Safety",
+                "Assessing the Impact of Virtual Reality on the Healthcare Industry",
+                "Examining the Role of Machine Learning in Predictive Maintenance",
+                "Analyzing the Potential of Artificial Intelligence for Supply Chain Risk Management",
+                "Investigating the Use of Drones for Infrastructure Inspections",
+                "Evaluating the Feasibility of Solar-Powered Disaster Relief Efforts",
+                "Exploring the Use of Virtual Reality for Cultural Heritage Preservation",
+                "Assessing the Ethical Implications of Virtual Reality as a Treatment for PTSD"
+            ]
+        },
+        {
+            "category": "Psychology",
+            "title": [
+                "Exploring the Role of Parenting Styles in Childhood Development",
+                "Analyzing the Effects of Social Media on Adolescent Mental Health",
+                "Investigating the Impact of Childhood Trauma on Adult Mental Health",
+                "Examining the Use of Cognitive Behavioral Therapy for Depression",
+                "Evaluating the Feasibility of Teletherapy for Mental Health Treatment",
+                "Analyzing the Relationship Between Sleep and Mental Health",
+                "Exploring the Role of Mindfulness in Stress Management",
+                "Assessing the Impact of Parental Divorce on Children's Mental Health",
+                "Examining the Use of Group Therapy for Substance Abuse Treatment",
+                "Evaluating the Feasibility of Virtual Reality Therapy for Phobias",
+                "Exploring the Role of Social Support in Mental Health Recovery",
+                "Analyzing the Impact of Social Comparison on Body Image and Self-Esteem",
+                "Investigating the Effects of Childhood Bullying on Adult Mental Health",
+                "Examining the Use of Art Therapy for Trauma Recovery",
+                "Evaluating the Feasibility of Teletherapy for Rural Populations",
+                "Analyzing the Relationship Between Social Media Use and Loneliness",
+                "Exploring the Role of Parenting Practices in Adolescent Mental Health",
+                "Assessing the Impact of Parental Substance Abuse on Children's Mental Health",
+                "Examining the Use of Cognitive Behavioral Therapy for Anxiety Disorders",
+                "Evaluating the Feasibility of Virtual Reality Therapy for Post-Traumatic Stress Disorder (PTSD)",
+                "Exploring the Role of Family Dynamics in Mental Health",
+                "Analyzing the Impact of Parenting Styles on Child Self-Esteem",
+                "Investigating the Effects of Social Media on Romantic Relationships",
+                "Examining the Use of Play Therapy for Children with Behavioral Issues",
+                "Evaluating the Feasibility of Teletherapy for Military Personnel",
+                "Analyzing the Relationship Between Sleep Quality and Mental Health",
+                "Exploring the Role of Positive Thinking in Mental Health",
+                "Assessing the Impact of Childhood Neglect on Adult Mental Health",
+                "Examining the Use of Group Therapy for Eating Disorders",
+                "Evaluating the Feasibility of Virtual Reality Therapy for Social Anxiety Disorder",
+                "Exploring the Role of Social Support in Coping with Chronic Illness",
+                "Analyzing the Impact of Social Comparison on Mental Health",
+                "Investigating the Effects of Social Media on Self-Esteem",
+                "Examining the Use of Music Therapy for Mental Health Treatment",
+                "Evaluating the Feasibility of Teletherapy for the Elderly",
+                "Analyzing the Relationship Between Physical Exercise and Mental Health",
+                "Exploring the Role of Parenting Styles in Adolescent Depression",
+                "Assessing the Impact of Parental Mental Illness on Children's Mental Health",
+                "Examining the Use of Cognitive Behavioral Therapy for Obsessive-Compulsive Disorder (OCD)",
+                "Evaluating the Feasibility of Virtual Reality Therapy for Panic Disorder",
+                "Exploring the Role of Family Therapy in Mental Health Treatment",
+                "Analyzing the Impact of Social Support on Mental Health Outcomes",
+                "Investigating the Effects of Social Media on Mental Health Stigma",
+                "Examining the Use of Pet Therapy for Mental Health Treatment",
+                "Evaluating the Feasibility of Teletherapy for Underserved Populations",
+                "Analyzing the Relationship Between Social Connection and Mental Health",
+                "Exploring the Role of Parenting Styles in Adolescent Anxiety",
+                "Assessing the Impact of Parental Substance Abuse on Adolescent Mental Health",
+                "Examining the Use of Cognitive Behavioral Therapy for Post-Traumatic Stress Disorder (PTSD)",
+                "Evaluating the Feasibility of Virtual Reality Therapy for Generalized Anxiety Disorder",
+                "Exploring the Role of Social Support in Mental Health Recovery",
+                "Analyzing the Impact of Social Comparison on Mental Health Outcomes",
+                "Investigating the Effects of Social Media on Body Image and Self-Esteem",
+                "Examining the Use of Art Therapy for Mental Health Treatment",
+                "Evaluating the Feasibility of Teletherapy for Working Professionals",
+                "Analyzing the Relationship Between Sleep Quality and Mental Health Outcomes",
+                "Exploring the Role of Positive Thinking in Coping with Chronic Illness",
+                "Assessing the Impact of Childhood Adversity on Adult Mental Health",
+                "Examining the Use of Group Therapy for Mood Disorders",
+                "Evaluating the Feasibility of Virtual Reality Therapy for Specific Phobias",
+                "Exploring the Role of Family Dynamics in Adolescent Mental Health",
+                "Analyzing the Impact of Parenting Styles on Child Anxiety",
+                "Investigating the Effects of Social Media on Romantic Relationships",
+                "Examining the Use of Play Therapy for Children with Developmental Delays",
+                "Evaluating the Feasibility of Teletherapy for Military Families",
+                "Analyzing the Relationship Between Physical Exercise and Mental Health Outcomes",
+                "Exploring the Role of Parenting Styles in Adolescent Depression",
+                "Assessing the Impact of Parental Mental Illness on Adolescent Mental Health",
+                "Examining the Use of Cognitive Behavioral Therapy for Panic Disorder",
+                "Evaluating the Feasibility of Virtual Reality Therapy for Agoraphobia",
+                "Examining the Role of Genetic Factors in Mental Health Outcomes",
+                "Analyzing the Impact of Race and Ethnicity on Mental Health Stigma",
+                "Investigating the Effects of Parental Support on Adolescent Mental Health",
+                "Evaluating the Feasibility of Teletherapy for Individuals with Disabilities",
+                "Analyzing the Relationship Between Social Support and Mental Health Outcomes in the LGBTQ+ Community",
+                "Exploring the Role of Parenting Styles in Adolescent Substance Abuse",
+                "Assessing the Impact of Childhood Sexual Abuse on Adult Mental Health",
+                "Examining the Use of Dialectical Behavioral Therapy for Borderline Personality Disorder",
+                "Evaluating the Feasibility of Virtual Reality Therapy for Panic Attacks",
+                "Exploring the Role of Social Support in Coping with Chronic Physical Illness in the Elderly",
+                "Analyzing the Impact of Social Comparison on Mental Health Outcomes in College Students",
+                "Investigating the Effects of Social Media on Body Image and Eating Disorders",
+                "Examining the Use of Art Therapy for Depression in Elderly Populations",
+                "Evaluating the Feasibility of Teletherapy for Low-Income Urban Populations",
+                "Analyzing the Relationship Between Sleep Quality and Mental Health Outcomes in Military Personnel",
+                "Exploring the Role of Positive Thinking in Stress Management in Rural Populations",
+                "Assessing the Impact of Childhood Neglect on Adolescent Mental Health Outcomes",
+                "Examining the Use of Group Therapy for Personality Disorders in College Students",
+                "Evaluating the Feasibility of Virtual Reality Therapy for Agoraphobia in Military Personnel",
+                "Exploring the Role of Family Dynamics in Childhood Mental Health Outcomes",
+                "Analyzing the Impact of Parenting Styles on Adolescent Self-Esteem in Rural Populations",
+                "Investigating the Effects of Social Media on Romantic Relationships in College Students",
+                "Examining the Use of Play Therapy for Children with Autism Spectrum Disorder in Low-Income Urban Populations",
+                "Examining the Role of Parenting Styles in Childhood Development in Military Families",
+                "Analyzing the Impact of Social Support on Mental Health Outcomes in Low-Income Urban Populations",
+                "Investigating the Effects of Social Comparison on Mental Health Stigma in the LGBTQ+ Community",
+                "Evaluating the Feasibility of Teletherapy for Individuals with Disabilities in Rural Communities",
+                "Analyzing the Relationship Between Social Connection and Mental Health Outcomes in the Elderly",
+                "Exploring the Role of Positive Thinking in Coping with Chronic Physical Illness in Military Personnel",
+                "Examining the Role of Cultural Factors in Mental Health Treatment Seeking Behavior"
+            ]
+        },
+        {
+            "category": "Engineering",
+            "title": [
+                "Designing a Solar-Powered Water Purification System",
+                "Analyzing the Structural Integrity of 3D Printed Bridges",
+                "Investigating the Feasibility of Vertical Farming for Urban Areas",
+                "Examining the Use of Biodegradable Plastics in Packaging",
+                "Evaluating the Energy Efficiency of Smart Homes",
+                "Analyzing the Potential of Geothermal Energy for Heating and Cooling",
+                "Exploring the Use of Drones for Infrastructure Inspections",
+                "Assessing the Impact of Artificial Intelligence on Traffic Management",
+                "Examining the Role of Robotics in Agriculture",
+                "Evaluating the Feasibility of Microgrids for Rural Communities",
+                "Designing a Portable Energy Harvesting Device Using Piezoelectric Materials",
+                "Analyzing the Structural Integrity of Timber Structures Using Cross-Laminated Timber",
+                "Investigating the Feasibility of Offshore Wind Energy for Coastal Communities",
+                "Examining the Use of Biochar in Soil Remediation",
+                "Evaluating the Energy Efficiency of Electric Vehicle Charging Stations",
+                "Analyzing the Potential of Ocean Thermal Energy Conversion for Power Generation",
+                "Exploring the Use of Augmented Reality for Maintenance and Repair of Industrial Equipment",
+                "Assessing the Impact of Blockchain Technology on Supply Chain Management",
+                "Examining the Role of Artificial Intelligence in Predictive Maintenance",
+                "Evaluating the Feasibility of Smart Grid Technology for Rural Electrification",
+                "Designing a Wireless Charging System for Electronic Devices",
+                "Analyzing the Structural Integrity of Concrete Structures Using Fiber-Reinforced Concrete",
+                "Investigating the Feasibility of Solar-Powered Desalination for Water-Scarce Communities",
+                "Examining the Use of Sustainable Building Materials in Construction",
+                "Evaluating the Energy Efficiency of Smart Office Buildings",
+                "Analyzing the Potential of Hydrokinetic Energy for Power Generation",
+                "Exploring the Use of Unmanned Aerial Vehicles for Disaster Response",
+                "Assessing the Impact of Internet of Things (IoT) on Manufacturing Quality Control",
+                "Examining the Role of Artificial Intelligence in Predictive Maintenance of Industrial Equipment",
+                "Evaluating the Feasibility of Smart Grid Technology for Improved Power Distribution",
+                "Designing a Wearable Device for Continuous Health Monitoring",
+                "Analyzing the Structural Integrity of Steel Structures Using High-Strength Steel",
+                "Investigating the Feasibility of Biogas Production for Waste Management",
+                "Examining the Use of Recycled Materials in Road Construction",
+                "Evaluating the Energy Efficiency of Smart Agriculture",
+                "Analyzing the Potential of Tidal Energy for Power Generation",
+                "Exploring the Use of Virtual Reality for Industrial Training and Education",
+                "Assessing the Impact of Cybersecurity on Industrial Control Systems",
+                "Examining the Role of Artificial Intelligence in Predictive Maintenance of Commercial Aircraft",
+                "Evaluating the Feasibility of Smart Grid Technology for Improved Grid Resilience",
+                "Designing a Wireless Charging System for Electric Vehicles",
+                "Analyzing the Structural Integrity of Concrete Structures Using Self-Consolidating Concrete",
+                "Investigating the Feasibility of Offshore Wave Energy for Power Generation",
+                "Examining the Use of Sustainable Building Materials in Low-Income Housing",
+                "Evaluating the Energy Efficiency of Smart Hospitals",
+                "Analyzing the Potential of Biomass Energy for Power Generation",
+                "Exploring the Use of Augmented Reality for Industrial Equipment Maintenance and Repair Training",
+                "Assessing the Impact of Blockchain Technology on Supply Chain Transparency",
+                "Examining the Role of Artificial Intelligence in Predictive Maintenance of Wind Turbines",
+                "Evaluating the Feasibility of Smart Grid Technology for Improved Power Distribution in Rural Areas",
+                "Designing a Portable Energy Harvesting Device Using Thermoelectric Materials",
+                "Analyzing the Structural Integrity of Steel Structures Using High-Performance Steel",
+                "Investigating the Feasibility of Solar-Powered Desalination for Water Security in Coastal Communities",
+                "Examining the Use of Biochar in Soil Fertility Improvement",
+                "Evaluating the Energy Efficiency of Smart Transportation Systems",
+                "Analyzing the Potential of Geothermal Energy for Power Generation in Volcanic Regions",
+                "Exploring the Use of Unmanned Aerial Vehicles for Search and Rescue Operations",
+                "Assessing the Impact of Internet of Things (IoT) on Industrial Safety",
+                "Examining the Role of Artificial Intelligence in Predictive Maintenance of Commercial Ships",
+                "Evaluating the Feasibility of Smart Grid Technology for Improved Grid Stability",
+                "Designing a Wearable Device for Continuous Environmental Monitoring",
+                "Analyzing the Structural Integrity of Timber Structures Using Laminated Veneer Lumber",
+                "Investigating the Feasibility of Biogas Production for Renewable Energy in Agricultural Communities",
+                "Examining the Use of Recycled Materials in Asphalt Pavement",
+                "Evaluating the Energy Efficiency of Smart Agriculture in Water-Scarce Regions",
+                "Analyzing the Potential of Tidal Energy for Power Generation in Estuarine Regions",
+                "Exploring the Use of Virtual Reality for Industrial Process Simulation and Training",
+                "Assessing the Impact of Cybersecurity on Industrial Control Systems in the Healthcare Industry",
+                "Examining the Role of Artificial Intelligence in Predictive Maintenance of Industrial Boilers",
+                "Evaluating the Feasibility of Smart Grid Technology for Improved Grid Efficiency",
+                "Designing a Smart Waste Management System for Rural Areas",
+                "Analyzing the Structural Integrity of Timber Structures Using Engineered Wood Products",
+                "Investigating the Feasibility of Biogas Production for Renewable Energy in Landfill Sites",
+                "Examining the Use of Sustainable Building Materials in Affordable Housing",
+                "Evaluating the Energy Efficiency of Smart Commercial Buildings",
+                "Analyzing the Potential of Hydrokinetic Energy for Power Generation in Riverine Regions",
+                "Exploring the Use of Augmented Reality for Industrial Equipment Inspection and Repair",
+                "Designing a Wireless Charging System for Electric Bicycles",
+                "Analyzing the Structural Integrity of Concrete Structures Using Ultra-High Performance Concrete",
+                "Investigating the Feasibility of Geothermal Energy for Power Generation in Hot Springs Regions",
+                "Examining the Use of Sustainable Building Materials in Low-Cost Housing",
+                "Evaluating the Energy Efficiency of Smart Warehouses",
+                "Analyzing the Potential of Ocean Thermal Energy Conversion for Power Generation in Tropical Regions",
+                "Exploring the Use of Unmanned Aerial Vehicles for Environmental Monitoring",
+                "Assessing the Impact of Internet of Things (IoT) on Industrial Energy Management",
+                "Examining the Role of Artificial Intelligence in Predictive Maintenance of Industrial Pumps",
+                "Evaluating the Feasibility of Smart Grid Technology for Improved Grid Reliability",
+                "Designing a Portable Energy Harvesting Device Using Photovoltaic Materials",
+                "Analyzing the Structural Integrity of Steel Structures Using High-Tensile Steel",
+                "Investigating the Feasibility of Solar-Powered Desalination for Water Security in Arid Regions",
+                "Examining the Use of Biochar in Soil Erosion Control",
+                "Evaluating the Energy Efficiency of Smart Public Transportation",
+                "Analyzing the Potential of Biomass Energy for Power Generation in Agricultural Regions",
+                "Exploring the Use of Augmented Reality for Industrial Safety Training",
+                "Assessing the Impact of Blockchain Technology on Supply Chain Transparency in the Food Industry",
+                "Examining the Role of Artificial Intelligence in Predictive Maintenance of Industrial Valves",
+                "Evaluating the Feasibility of Smart Grid Technology for Improved Grid Resilience in Natural ,Disaster-Prone Areas",
+                "Designing a Wearable Device for Continuous Air Quality Monitoring",
+                "Analyzing the Structural Integrity of Timber Structures Using Nail-Laminated Timber",
+                "Investigating the Feasibility of Biogas Production for Renewable Energy in Livestock Farms"
+            ]
+        },
+        {
+            "category":"System-based",
+            "title":[
+                "Design and Development of a Web-Based Task Management Tool",
+                "Creating a Mobile App for Scheduling and Organizing Events",
+                "Implementation of a Web-Based System for Managing Customer Relationships",
+                "Design and Development of an Online Learning Platform",
+                "Creating a Mobile App for Tracking Personal Health and Fitness",
+                "Implementation of a Web-Based Inventory Management System",
+                "Design and Development of a Mobile App for Ordering and Tracking Restaurant Deliveries",
+                "Implementation of a Web-Based Project Management Tool",
+                "Creating a Mobile App for Finding and Booking Travel Accommodations",
+                "Design and Development of a Web-Based System for Managing and Tracking Employee Time Off",
+                "Design and Implementation of a Web-Based System for Managing and Tracking Student Progress",
+                "Creating a Mobile App for Finding and Booking Fitness Classes",
+                "Implementation of a Web-Based System for Managing and Tracking Volunteer Hours",
+                "Design and Development of an Online Platform for Collaborative Document Editing",
+                "Creating a Mobile App for Managing and Tracking Personal Finances",
+                "Implementation of a Web-Based System for Monitoring and Controlling Smart Home Devices",
+                "Design and Development of a Mobile App for Ordering and Tracking Grocery Deliveries",
+                "Implementation of a Web-Based System for Managing and Tracking Professional Development Opportunities",
+                "Creating a Mobile App for Finding and Booking Pet Care Services",
+                "Design and Development of a Web-Based System for Matching Freelancers with Potential Clients",
+                "Creating a Mobile App for Tracking and Managing Personal Goals",
+                "Implementation of a Web-Based System for Managing and Tracking Rentals and Leases",
+                "Design and Development of an Online Platform for Hosting and Managing Virtual Events",
+                "Creating a Mobile App for Managing and Tracking Home Maintenance and Repairs",
+                "Implementation of a Web-Based System for Managing and Tracking Employee Training and Development",
+                "Design and Development of a Mobile App for Finding and Booking Personalized Travel Itineraries",
+                "Implementation of a Web-Based System for Managing and Tracking Event Registrations and Attendance",
+                "Creating a Mobile App for Tracking and Managing Personal Health and Wellness",
+                "Design and Development of a Web-Based System for Managing and Tracking Equipment Rentals",
+                "Creating a Mobile App for Finding and Booking Professional Services",
+                "Implementation of a Web-Based System for Managing and Tracking Sales Leads and Opportunities",
+                "Design and Development of an Online Platform for Matching Tutors with Students",
+                "Creating a Mobile App for Tracking and Managing Personal Projects",
+                "Implementation of a Web-Based System for Managing and Tracking Memberships and Subscriptions",
+                "Design and Development of a Mobile App for Finding and Booking Home Services",
+                "Implementation of a Web-Based System for Managing and Tracking Customer Complaints and Feedback",
+                "Creating a Mobile App for Tracking and Managing Personal To-Do Lists",
+                "Design and Development of a Web-Based System for Managing and Tracking Subcontractors and Vendors",
+                "Creating a Mobile App for Finding and Booking Personalized Meal Plans and Nutrition Services",
+                "Implementation of a Web-Based System for Managing and Tracking Vehicle Maintenance and Repairs",
+                "Design and Development of an Online Platform for Hosting and Managing Online Courses and Workshops",
+                "Creating a Mobile App for Tracking and Managing Personal Habits and Routines",
+                "Implementation of a Web-Based System for Managing and Tracking Job Applications and Interviews",
+                "Design and Development of a Mobile App for Finding and Booking Personalized Wellness Retreats",
+                "Implementation of a Web-Based System for Managing and Tracking Customer Orders and Shipments",
+                "Creating a Mobile App for Tracking and Managing Personal Networks and Connections",
+                "Design and Implementation of a Web-Based System for Managing and Tracking Agricultural Supply Chains",
+                "Creating a Mobile App for Finding and Booking Personalized Art Classes and Workshops",
+                "Implementation of a Web-Based System for Managing and Tracking Emergency Response Services",
+                "Design and Development of an Online Platform for Hosting and Managing Virtual Book Clubs",
+                "Creating a Mobile App for Tracking and Managing Personal Nutrition and Meal Planning",
+                "Implementation of a Web-Based System for Managing and Tracking Environmental Sustainability Initiatives",
+                "Design and Development of a Mobile App for Finding and Booking Personalized Gardening Services",
+                "Implementation of a Web-Based System for Managing and Tracking Political Campaigns and Elections",
+                "Creating a Mobile App for Tracking and Managing Personal Creative Projects and Pursuits",
+                "Design and Development of a Web-Based System for Managing and Tracking Social Impact Initiatives",
+                "Creating a Mobile App for Finding and Booking Personalized Yoga and Meditation Classes",
+                "Implementation of a Web-Based System for Managing and Tracking Nonprofit Fundraising and Donations",
+                "Design and Development of an Online Platform for Hosting and Managing Virtual Book Fairs",
+                "Creating a Mobile App for Tracking and Managing Personal Volunteering and Community Service",
+                "Implementation of a Web-Based System for Managing and Tracking Recycling and Waste Management Programs",
+                "Design and Development of a Mobile App for Finding and Booking Personalized Music Lessons and Classes",
+                "Implementation of a Web-Based System for Managing and Tracking Cultural Heritage and Preservation Efforts",
+                "Creating a Mobile App for Tracking and Managing Personal Mental Health and Well-being",
+                "Design and Development of a Web-Based System for Managing and Tracking Social Justice and Equity Initiatives",
+                "Creating a Mobile App for Finding and Booking Personalized Dance Classes and Workshops",
+                "Implementation of a Web-Based System for Managing and Tracking Historical Preservation and Restoration Projects",
+                "Design and Development of an Online Platform for Hosting and Managing Virtual Writing Groups",
+                "Creating a Mobile App for Tracking and Managing Personal Creative Writing Projects",
+                "Implementation of a Web-Based System for Managing and Tracking Environmental Conservation Efforts",
+                "Design and Development of a Mobile App for Finding and Booking Personalized Cooking Classes and Workshops",
+                "Implementation of a Web-Based System for Managing and Tracking Social Service Programs and Services",
+                "Creating a Mobile App for Tracking and Managing Personal Learning and Education Goals",
+                "Design and Development of a Web-Based System for Managing and Tracking Community Development Initiatives",
+                "Creating a Mobile App for Finding and Booking Personalized Fitness Programs and Training",
+                "Implementation of a Web-Based System for Managing and Tracking Cultural Festivals and Events",
+                "Design and Development of an Online Platform for Hosting and Managing Virtual Art Galleries",
+                "Creating a Mobile App for Tracking and Managing Personal Home Improvement and DIY Projects",
+                "Implementation of a Web-Based System for Managing and Tracking Environmental Education Programs",
+                "Design and Development of a Mobile App for Finding and Booking Personalized Home Cleaning Services",
+                "Design and Implementation of a Student Information System for K-12 Schools",
+                "Creating a Mobile App for Grading and Evaluating Student Assignments and Exams",
+                "Implementation of a Web-Based Library Management System for Academic Institutions",
+                "Design and Development of an Online Platform for Tracking Student Attendance and Participation",
+                "Creating a Mobile App for Managing and Tracking Student Enrollments and Registrations at a Community College",
+                "Design and Implementation of a Web-Based Project Management Tool",
+                "Creating a Mobile App for Tracking and Managing Personal Finances",
+                "Implementation of a Web-Based System for Managing and Tracking Customer Relationships",
+                "Design and Development of an Online Platform for Collaborative Document Editing",
+                "Creating a Mobile App for Finding and Booking Travel Accommodations",
+                "Implementation of a Web-Based Inventory Management System",
+                "Design and Development of a Mobile App for Ordering and Tracking Restaurant Deliveries",
+                "Implementation of a Web-Based System for Managing and Tracking Employee Time Off",
+                "Creating a Mobile App for Finding and Booking Pet Care Services",
+                "Design and Development of a Web-Based System for Matching Freelancers with Potential Clients",
+                "Creating a Mobile App for Tracking and Managing Personal Goals",
+                "Implementation of a Web-Based System for Managing and Tracking Rentals and Leases",
+                "Design and Development of an Online Platform for Hosting and Managing Virtual Events",
+                "Creating a Mobile App for Managing and Tracking Home Maintenance and Repairs",
+                "Implementation of a Web-Based System for Managing and Tracking Employee Training and Development",
+                "Design and Development of a Mobile App for Finding and Book"
+
+            ]
         }
+        
     ]
 }
